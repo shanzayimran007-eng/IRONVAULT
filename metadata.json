@@ -1,0 +1,6 @@
+{
+  "name": "IronVault Fitness | Premium USA Gym & Health Club",
+  "description": "IronVault Fitness is a premier American health club featuring elite strength equipment, high-energy group fitness classes, expert personal training, and luxury recovery amenities. Stronger Every Day.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
